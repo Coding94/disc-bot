@@ -1,25 +1,25 @@
-Discord Radio Streaming Bot
+**Discord Radio Streaming Bot**
 
 A Discord bot that streams live radio directly into voice channels. Built with Discord.js v14+ and Node.js, this bot provides a fun and interactive way to play radio in your server.
 
-Features
+**Features**
 
 * Live Radio Streaming: Stream a live radio station or clock directly into a voice channel.
 
 * Interactive Commands: Use simple slash commands to control the playback of the radio stream.
 
-Commands
+**Commands**
 
 * /radio: Starts the radio stream in the configured voice channel.
 
 * The bot will attempt to join the voice channel and begin playing the stream.
 
-License
+**License**
 
 MIT License
 
-Check Out the Bot Features
+**Check Out the Bot Features**
 
-To explore all the features, join my Discord server:
+To listen to the radio streaming, along with other features like the live world clock (from another bot), join my Discord server:
 
 https://discord.gg/kwmKBT9Q 
