@@ -18,4 +18,4 @@ A Discord bot that streams live radio directly into voice channels. Built with D
 
 To listen to the radio streaming, along with other features like the live world clock (from another bot), join my Discord server:
 
-https://discord.gg/kwmKBT9Q 
+[Discor dBots](https://discord.gg/kwmKBT9Q)
